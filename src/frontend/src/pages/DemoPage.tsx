@@ -10,7 +10,6 @@ import {
   Calendar,
   CheckCircle,
   Zap,
-  Phone,
   Mail,
   MapPin,
   Clock,
@@ -139,20 +138,11 @@ export default function DemoPage() {
               <div className="space-y-3 bg-gray-50 rounded-2xl p-5 border border-gray-200">
                 <div className="flex items-center gap-3">
                   <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#1F3A93] to-[#6C63FF] flex items-center justify-center">
-                    <Phone className="w-4 h-4 text-white" />
-                  </div>
-                  <div>
-                    <p className="text-xs text-gray-500">Call us directly</p>
-                    <p className="text-sm font-semibold text-[#0A1628]">+91 98765 43210</p>
-                  </div>
-                </div>
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#1F3A93] to-[#6C63FF] flex items-center justify-center">
                     <Mail className="w-4 h-4 text-white" />
                   </div>
                   <div>
                     <p className="text-xs text-gray-500">Email us</p>
-                    <p className="text-sm font-semibold text-[#0A1628]">demo@nexvstar.ai</p>
+                    <p className="text-sm font-semibold text-[#0A1628]">nexvstaraitechnology@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -170,7 +160,7 @@ export default function DemoPage() {
                   </div>
                   <div>
                     <p className="text-xs text-gray-500">Office</p>
-                    <p className="text-sm font-semibold text-[#0A1628]">Mumbai, Maharashtra, India</p>
+                    <p className="text-sm font-semibold text-[#0A1628]">Dibrugarh, ASSAM, INDIA</p>
                   </div>
                 </div>
               </div>
